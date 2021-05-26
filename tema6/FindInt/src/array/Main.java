@@ -26,6 +26,18 @@ public class Main {
                   System.out.println(a[i]+" Vocala"); break;
               case 'y' :
                   System.out.println(a[i]+" Vocala"); break;
+              case 'A' :
+                  System.out.println(a[i]+" Vocala"); break;
+              case 'E' :
+                  System.out.println(a[i]+" Vocala"); break;
+              case 'I' :
+                  System.out.println(a[i]+" Vocala"); break;
+              case 'O' :
+                  System.out.println(a[i]+" Vocala"); break;
+              case 'U' :
+                  System.out.println(a[i]+" Vocala"); break;
+              case 'Y' :
+                  System.out.println(a[i]+" Vocala"); break;
               default:
                   System.out.println(a[i]+" Consoana");
 

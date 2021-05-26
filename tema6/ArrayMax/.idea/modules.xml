@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArrayMax.iml" filepath="$PROJECT_DIR$/ArrayMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayMaxMin.iml" filepath="$PROJECT_DIR$/ArrayMaxMin.iml" />
     </modules>
   </component>
 </project>
